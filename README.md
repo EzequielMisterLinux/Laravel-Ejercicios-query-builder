@@ -72,7 +72,7 @@ Este endpoint insertará 5 usuarios y 5 pedidos asociados.
 
 Para probarlo con Postman:
 
-1. Configura la solicitud como `POST`.
+1. Configura la solicitud como `GET`.
 2. Ingresa la URL `http://127.0.0.1:8000/insertar`.
 3. Haz clic en "Send" para ejecutar la petición.
 
