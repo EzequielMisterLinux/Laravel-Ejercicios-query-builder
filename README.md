@@ -9,18 +9,20 @@ Este proyecto es una actividad de la Academia Kodigo donde se realiza una serie 
 - Tener MySQL instalado y funcionando.
 - Tener Postman instalado para probar las APIs.
 
+```
+
 ## Instalación
 
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tuusuario/tu-repo.git
+   git clone https://github.com/EzequielMisterLinux/Laravel-Ejercicios-query-builder.git
    ```
 
 2. Navega al directorio del proyecto:
 
    ```bash
-   cd tu-repo
+   cd Laravel-Ejercicios-query-builder
    ```
 
 3. Instala las dependencias:
@@ -62,7 +64,7 @@ A continuación, se detallan los endpoints disponibles y cómo usarlos con Postm
 
 Este endpoint insertará 5 usuarios y 5 pedidos asociados.
 
-**Método:** `POST`
+**Método:** `GET`
 
 **URL:** `/insertar`
 
